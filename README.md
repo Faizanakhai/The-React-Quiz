@@ -17,13 +17,14 @@
 Add screenshots here to showcase the app:
 
 1. **Quiz Home Page**
-   ![Home Page](path-to-your-image.png)
+   ![Screenshot 2025-01-09 132207](https://github.com/user-attachments/assets/90ef9024-0723-443a-8e7c-790cbcfd5b35)
 
 2. **Question Screen**
-   ![Question Screen](path-to-your-image.png)
+   ![Screenshot 2025-01-09 132217](https://github.com/user-attachments/assets/43dd1f6b-34b7-45c6-93cd-4f53a8239364)
+
 
 3. **Score Summary**
-   ![Score Summary](path-to-your-image.png)
+   ![Screenshot 2025-01-09 132758](https://github.com/user-attachments/assets/be76ace6-f301-49be-afd5-2697a0e00717)
 
 ---
 
