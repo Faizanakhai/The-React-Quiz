@@ -46,12 +46,12 @@ Follow these steps to run the project locally:
    npm run server
    ```
 
-3. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
-4. Start the project in a new terminal:
+3. Start the project in a new terminal:
    ```bash
    npm run start
    ```
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ---
 
