@@ -14,7 +14,6 @@
 
 ## Screenshots 📸
 
-Add screenshots here to showcase the app:
 
 1. **Quiz Home Page**
    ![Screenshot 2025-01-09 132207](https://github.com/user-attachments/assets/90ef9024-0723-443a-8e7c-790cbcfd5b35)
